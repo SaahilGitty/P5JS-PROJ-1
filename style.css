@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "SF Pro";
+  text-align: center;
+}
+canvas {
+  display: block;
+}
+
+button {
+  border-width: 0px;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  font-size: 125%;
+  font-family: "SF Pro";
+}
+input {
+  border-width: 0px;
+  padding-top: 3px;
+  border-radius: 0px;
+  background-color: rgba(0,0,0,0);
+  color: white;
+  height: 30px;
+  width: 70px;
+}
